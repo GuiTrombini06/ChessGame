@@ -21,11 +21,17 @@
 
 
 src/view/ChessGUI.java        # Interface gráfica principal do jogo
+
 src/controller/Game.java      # Lógica central do jogo, controle de regras e estado
+
 src/model/board/Board.java    # Representação do tabuleiro e manipulação de peças
+
 src/model/pieces/             # Classes das peças (King, Queen, Rook, Bishop, Knight, Pawn)
+
 resources/                    # Imagens das peças utilizadas na interface
+
 out/                          # Arquivos compilados (.class)
+
 README.md                     # Documentação do projeto
 
 ---
