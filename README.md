@@ -11,7 +11,7 @@
 - 📝 **Histórico de jogadas**: Área dedicada para exibir todos os lances realizados na partida.  
 - 🎨 **Temas de cores**: Possibilidade de alternar entre diferentes temas visuais para o tabuleiro.  
 - 🔦 **Destaques visuais**: Casas de seleção, movimentos possíveis e último lance são destacados para facilitar a visualização.  
-- 🔄 **Controle de turno**: Indicação de qual jogador deve jogar (brancas ou pretas).  
+- 🔄 **Controle de turno**: Indicação de qual jogador deve jogar (Vermelhas ou Amarelas).  
 - 🆕 **Novo jogo**: Opção para reiniciar a partida a qualquer momento.  
 - 🤖 **Inteligência Artificial (IA)** com **3 níveis de dificuldade**: fácil, médio e difícil.  
 
